@@ -2,7 +2,7 @@
 
 ### I'm Daniel, a junior back-end web developer with a background in HR and a passion for coding and data.
 
-I started my career in the HR departments of companies like Atos, Amazon and BDO, where I got used to working in fast-paced, multicultural environments were deadlines are tight and quality work a must.
+I started my career in the HR department of companies like Atos, Amazon and BDO, where I got used to working in fast-paced, multicultural environments where deadlines are tight and quality work a must.
 
 I came into contact with the world of programming in an effort to automate some of the repetitive tasks my colleagues and I were facing -first with VBA and PowerQuery, eventually with Python.
 
