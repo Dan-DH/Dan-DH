@@ -1,4 +1,4 @@
-# Hi! 🤓
+# Hi!
 
 ### I'm Daniel, a back-end developer with a background in HR and a passion for coding and data.
 
@@ -6,9 +6,9 @@ I started my career in the HR department of companies like Atos, Amazon and BDO,
 
 I came into contact with the world of programming in an effort to automate some of the repetitive tasks my colleagues and I were facing -first with VBA and PowerQuery, eventually with Python.
 
-The coding bug bit me hard and I realized that I could have a much bigger impact in the world by creating sites and tools people can make use of.
+The coding bug bit me hard and I realized that I would much rather spend my time creating sites and tools people can make use of.
 
-I now aspire to use my newfound skills to create useful, beautiful, interactive pieces of coding. Here we go!
+I now aspire to use my newfound skills to create useful, beautiful and interactive pieces of coding. Here we go!
 
 ### Skills
 
