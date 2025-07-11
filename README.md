@@ -6,4 +6,4 @@ I started my career in the HR department of companies like Atos, Amazon and BDO,
 
 I came into contact with the world of programming in an effort to automate some of the repetitive tasks my colleagues and I were facing.
 
-The coding bug bit me hard and I realized that I would much rather spend my time creating interactive, beautiful and useful sites.
+The coding bug bit me hard and I realized that I would much rather spend my time creating cool interactive stuff.
